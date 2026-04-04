@@ -4,8 +4,8 @@ The dataset contains complaint records submitted to the Texas Department of Insu
 
 This creates challenges in accurately analyzing:
 
-* Total number of complaints
-* Resolution timelines
-* Performance metrics
+- Total number of complaints
+- Resolution timelines
+- Performance metrics
 
 The goal of this analysis is to clean and transform the data to produce reliable business insights.
